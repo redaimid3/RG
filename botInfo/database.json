@@ -1,0 +1,124 @@
+{
+	"playersData": {},
+	"gamesData": {},
+	"clansData": {},
+	"botSettings": {
+		"bonusPostID": "24",
+		"bonusPostSum": "77777",
+		"privateConv": {
+			"basicAmountRub": 49,
+			"premiumAmountRub": 99
+		},
+		"clansSettings": {
+			"clansPrice": 25000000
+		},
+		"topSettings": {
+			"dayTop": {
+				"amount": [
+					3000000,
+					2500000,
+					2000000,
+					1500000,
+					1000000,
+					800000,
+					600000,
+					400000,
+					200000,
+					100000
+				]
+			},
+			"clansTop": {
+				"amount": [
+					500000000000,
+					250000000000,
+					125000000000,
+					100000000000,
+					25000000000
+				]
+			}
+		},
+		"maxWithdraw": {
+			"isActive": false,
+			"currentAmount": 4187624
+		},
+		"marketSettings": {
+			"mainCurrency": {
+				"vkCoinBuy": 350000
+			}
+		},
+		"gamesSettings": {
+			"bankMaxSize": 7,
+			"minimalBet": 100,
+			"dreamCatcher": {
+				"maxBets": {
+					"x1": 200000000,
+					"x2": 100000000,
+					"x5": 50000000,
+					"x10": 25000000,
+					"x20": 10000000,
+					"x40": 5000000,
+					"vx1": 200000000,
+					"vx2": 100000000,
+					"vx5": 50000000,
+					"vx10": 25000000,
+					"vx20": 10000000,
+					"vx40": 5000000
+				}
+			},
+			"crash": {
+				"maxBets": {
+					"amount": 200000000
+				}
+			},
+			"Wheel": {
+				"maxBets": {
+					"evenNoteven": 200000000,
+					"redBlack": 100000000,
+					"intS": 50000000,
+					"numbersOne": 25000000,
+					"numberSum": 26000000
+				}
+			},
+			"Double": {
+				"maxBets": {
+					"x2": 500000000,
+					"x3": 250000000,
+					"x5": 100000000,
+					"x50": 10000000,
+					"vx2": 500000000,
+					"vx3": 250000000,
+					"vx5": 100000000,
+					"vx50": 10000000
+				}
+			},
+			"Dice": {
+				"maxBets": {
+					"evenNoteven": 50000000,
+					"numbers": 10000000
+				}
+			},
+			"Down7Up": {
+				"maxBets": {
+					"down": 100000000,
+					"seven": 100000000,
+					"up": 100000000,
+					"vdown": 100000000,
+					"vseven": 100000000,
+					"vup": 100000000
+				}
+			}
+		},
+		"botStatistic": {
+			"todayReplenished": 0,
+			"todayWithdrawed": 0,
+			"todayMainBought": 0,
+			"todayBonusBought": 0
+		},
+		"botHistory": {
+			"RepleinishId": 3458,
+			"YooMoneyHistory": {},
+			"vkCoinHistory": {},
+			"keksikHistory": {}
+		}
+	}
+}

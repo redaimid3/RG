@@ -1,0 +1,2277 @@
+{
+	"playersData": {
+		"173868106": {
+			"id": 173868106,
+			"name": "💸BOSS",
+			"balance": 1000346290391,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 1300000,
+				"winDay": 0,
+				"winWeek": 1300000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"265537477": {
+			"id": 265537477,
+			"name": "Айдар",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 345027,
+				"winDay": 200000,
+				"winWeek": 345027
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"286854599": {
+			"id": 286854599,
+			"name": "Кирилл",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 3753334,
+				"winDay": 3400000,
+				"winWeek": 3753334
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"301477143": {
+			"id": 301477143,
+			"name": "Егор",
+			"balance": 3665472241,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 5080368139,
+				"winDay": 5080368139,
+				"winWeek": 5080368139
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"347260253": {
+			"id": 347260253,
+			"name": "Даня",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"350368038": {
+			"id": 350368038,
+			"name": "Кирилл",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"358155858": {
+			"id": 358155858,
+			"name": "Александр",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 2061494,
+				"winDay": 1100108,
+				"winWeek": 2061494
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"375403766": {
+			"id": 375403766,
+			"name": "Савелий",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"376393143": {
+			"id": 376393143,
+			"name": "Максим",
+			"balance": 100000000,
+			"bbalance": 100000000,
+			"vbalance": 111110,
+			"pCoins": 22220,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"420777531": {
+			"id": 420777531,
+			"name": "Гамид",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"437427389": {
+			"id": 437427389,
+			"name": "Кирилл",
+			"balance": 9188,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"447839681": {
+			"id": 447839681,
+			"name": "Кирилл",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 19132,
+				"winDay": 0,
+				"winWeek": 19132
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"460127997": {
+			"id": 460127997,
+			"name": "Rustem",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"462306665": {
+			"id": 462306665,
+			"name": "Илья",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"473826412": {
+			"id": 473826412,
+			"name": "Алексей",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "26"
+		},
+		"474188769": {
+			"id": 474188769,
+			"name": "Кирилл",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 3297047,
+				"winDay": 1362047,
+				"winWeek": 3297047
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"483195544": {
+			"id": 483195544,
+			"name": "Коля",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"495690992": {
+			"id": 495690992,
+			"name": "Филипп",
+			"balance": 0,
+			"bbalance": 66666,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"502646590": {
+			"id": 502646590,
+			"name": "Иван",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"522744337": {
+			"id": 522744337,
+			"name": "Иван",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 27962709,
+				"winDay": 23260211,
+				"winWeek": 27962709
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"527072298": {
+			"id": 527072298,
+			"name": "Сергей",
+			"balance": 0,
+			"bbalance": 211111,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"533035786": {
+			"id": 533035786,
+			"name": "Никита",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"542260437": {
+			"id": 542260437,
+			"name": "Ислам",
+			"balance": 3000000,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 10106666,
+				"winDay": 10106666,
+				"winWeek": 10106666
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"545704050": {
+			"id": 545704050,
+			"name": "Никита",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"548384925": {
+			"id": 548384925,
+			"name": "Вова",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 50000,
+				"winDay": 0,
+				"winWeek": 50000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"555894463": {
+			"id": 555894463,
+			"name": "Иван",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 288888,
+				"winDay": 0,
+				"winWeek": 288888
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"557848002": {
+			"id": 557848002,
+			"name": "Ян'",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 333333,
+				"winDay": 0,
+				"winWeek": 333333
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"563195543": {
+			"id": 563195543,
+			"name": "Глеб",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 250000,
+				"winDay": 0,
+				"winWeek": 250000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "26"
+		},
+		"565259370": {
+			"id": 565259370,
+			"name": "Макс",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 40833666,
+				"winDay": 39574222,
+				"winWeek": 40833666
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"565339836": {
+			"id": 565339836,
+			"name": "Иван",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"582283125": {
+			"id": 582283125,
+			"name": "Александр",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 33333,
+				"winDay": 0,
+				"winWeek": 33333
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"583217172": {
+			"id": 583217172,
+			"name": "Никифор",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"597696520": {
+			"id": 597696520,
+			"name": "Павел",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"599136271": {
+			"id": 599136271,
+			"name": "Иван",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"610989427": {
+			"id": 610989427,
+			"name": "Максим",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"626662743": {
+			"id": 626662743,
+			"name": "Максим",
+			"balance": 384524,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 666767,
+				"winDay": 356406,
+				"winWeek": 666767
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "42"
+		},
+		"637086003": {
+			"id": 637086003,
+			"name": "Феофилов",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 1950000,
+				"winDay": 500000,
+				"winWeek": 1950000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "192"
+		},
+		"638184009": {
+			"id": 638184009,
+			"name": "Fisa",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"639611640": {
+			"id": 639611640,
+			"name": "Михаил",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"646914468": {
+			"id": 646914468,
+			"name": "Максим",
+			"balance": 0,
+			"bbalance": 66666,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"651375052": {
+			"id": 651375052,
+			"name": "Никита",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 2000,
+				"winDay": 0,
+				"winWeek": 2000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"653509216": {
+			"id": 653509216,
+			"name": "Arrrrr",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"655037535": {
+			"id": 655037535,
+			"name": "Алексей",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"661527859": {
+			"id": 661527859,
+			"name": "Влад",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 10330000,
+				"winDay": 0,
+				"winWeek": 10330000
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "8"
+		},
+		"683225983": {
+			"id": 683225983,
+			"name": "Farm",
+			"balance": 500000,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 552698,
+				"winDay": 552698,
+				"winWeek": 552698
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"688252831": {
+			"id": 688252831,
+			"name": "Александр",
+			"balance": 0,
+			"bbalance": 83888,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 601116,
+				"winDay": 501116,
+				"winWeek": 601116
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			},
+			"lastBonusPostID": "34"
+		},
+		"692528949": {
+			"id": 692528949,
+			"name": "Vitaliy",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		},
+		"696137479": {
+			"id": 696137479,
+			"name": "Сергей",
+			"balance": 0,
+			"bbalance": 0,
+			"vbalance": 0,
+			"pCoins": 0,
+			"userStatistics": {
+				"winAllTime": 0,
+				"winDay": 0,
+				"winWeek": 0
+			},
+			"userData": {
+				"accountType": "player",
+				"clanData": false,
+				"globalSettings": {
+					"isVirtualPlay": false,
+					"allowNewsMessage": true,
+					"allowInlineButtons": true,
+					"allowCallNickname": true
+				},
+				"bankData": {
+					"yooMoney": null,
+					"qiwi": null,
+					"card": null
+				},
+				"privateSettings": {
+					"allowNewGamesList": false
+				}
+			}
+		}
+	},
+	"gamesData": {
+		"2000000003": {
+			"id": 2000000003,
+			"convOwner": -229419604,
+			"convData": {
+				"gamemode": null,
+				"isActive": false,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": null,
+					"secret": null,
+					"result": null
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000004": {
+			"id": 2000000004,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "wheel",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "366837b109f7c1bd39c08d85cd3e2339",
+					"secret": "9RDW8>%8&XI6&3vn8$Uh",
+					"result": 30
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000005": {
+			"id": 2000000005,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "down7up",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "7bd20d4141c72724042d5eef48bdf761",
+					"secret": "kh483mKF6OOPvNU475yF",
+					"result": 2
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000006": {
+			"id": 2000000006,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "dice",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "1e3428adfa58c7510329e614e114614e",
+					"secret": "v40ezMzi9vnE*@x1S]8<",
+					"result": 5
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000007": {
+			"id": 2000000007,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "dreamcatcher",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "82735bb40ce430be6bf11e5f02fcf27d",
+					"secret": "At^xOnQiT]Uwqj%Sl1vV",
+					"result": "x1"
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000008": {
+			"id": 2000000008,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "double",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "16cd93e604fa2f5747b863e5f27e94f4",
+					"secret": "m5bkBsL79D&vIcq0>CrB",
+					"result": "x5"
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000009": {
+			"id": 2000000009,
+			"convOwner": 173868106,
+			"convData": {
+				"gamemode": "crash",
+				"isActive": true,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": "3d3bf6469ac68de55cee4e741837e27b",
+					"secret": "pWEPRLJzu2mGTFzp>bWU",
+					"result": 1.09
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000011": {
+			"id": 2000000011,
+			"convOwner": 545704050,
+			"convData": {
+				"gamemode": null,
+				"isActive": false,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": null,
+					"secret": null,
+					"result": null
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		},
+		"2000000022": {
+			"id": 2000000022,
+			"convOwner": 683225983,
+			"convData": {
+				"gamemode": null,
+				"isActive": false,
+				"convType": null
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 90,
+				"resultData": {
+					"hash": null,
+					"secret": null,
+					"result": null
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 90,
+				"adsMessage": true,
+				"chatManager": {
+					"isActive": false,
+					"linkTrigger": false,
+					"repostTrigger": false,
+					"markTrigger": false,
+					"customModers": {},
+					"otherData": {
+						"warnsList": {}
+					}
+				}
+			}
+		}
+	},
+	"clansData": {},
+	"botSettings": {
+		"bonusPostID": "192",
+		"bonusPostSum": "100000",
+		"privateConv": {
+			"basicAmountRub": 49,
+			"premiumAmountRub": 99
+		},
+		"clansSettings": {
+			"clansPrice": 25000000
+		},
+		"topSettings": {
+			"dayTop": {
+				"amount": [
+					3000000,
+					2500000,
+					2000000,
+					1500000,
+					1000000,
+					800000,
+					600000,
+					400000,
+					200000,
+					100000
+				]
+			},
+			"clansTop": {
+				"amount": [
+					500000000000,
+					250000000000,
+					125000000000,
+					100000000000,
+					25000000000
+				]
+			}
+		},
+		"maxWithdraw": {
+			"isActive": false,
+			"currentAmount": 131441
+		},
+		"marketSettings": {
+			"mainCurrency": {
+				"vkCoinBuy": 350000
+			}
+		},
+		"gamesSettings": {
+			"bankMaxSize": 7,
+			"minimalBet": 100,
+			"dreamCatcher": {
+				"maxBets": {
+					"x1": 200000000,
+					"x2": 100000000,
+					"x5": 50000000,
+					"x10": 25000000,
+					"x20": 10000000,
+					"x40": 5000000,
+					"vx1": 200000000,
+					"vx2": 100000000,
+					"vx5": 50000000,
+					"vx10": 25000000,
+					"vx20": 10000000,
+					"vx40": 5000000
+				}
+			},
+			"crash": {
+				"maxBets": {
+					"amount": 200000000
+				}
+			},
+			"Wheel": {
+				"maxBets": {
+					"evenNoteven": 200000000,
+					"redBlack": 100000000,
+					"intS": 50000000,
+					"numbersOne": 25000000,
+					"numberSum": 26000000
+				}
+			},
+			"Double": {
+				"maxBets": {
+					"x2": 500000000,
+					"x3": 250000000,
+					"x5": 100000000,
+					"x50": 10000000,
+					"vx2": 500000000,
+					"vx3": 250000000,
+					"vx5": 100000000,
+					"vx50": 10000000
+				}
+			},
+			"Dice": {
+				"maxBets": {
+					"evenNoteven": 50000000,
+					"numbers": 10000000
+				}
+			},
+			"Down7Up": {
+				"maxBets": {
+					"down": 100000000,
+					"seven": 100000000,
+					"up": 100000000,
+					"vdown": 100000000,
+					"vseven": 100000000,
+					"vup": 100000000
+				}
+			}
+		},
+		"botStatistic": {
+			"todayReplenished": 0,
+			"todayWithdrawed": 0,
+			"todayMainBought": 0,
+			"todayBonusBought": 0
+		},
+		"botHistory": {
+			"RepleinishId": 3490,
+			"YooMoneyHistory": {},
+			"vkCoinHistory": {
+				"510734557": {
+					"id": 510734557,
+					"from_id": 688252831,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734565": {
+					"id": 510734565,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 100000,
+					"realAmount": 100,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734576": {
+					"id": 510734576,
+					"from_id": 358155858,
+					"payload": 777,
+					"amount": 8000000,
+					"realAmount": 8000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734621": {
+					"id": 510734621,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 663000,
+					"realAmount": 663,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734640": {
+					"id": 510734640,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734653": {
+					"id": 510734653,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734708": {
+					"id": 510734708,
+					"from_id": 358155858,
+					"payload": 777,
+					"amount": 10000000,
+					"realAmount": 10000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734797": {
+					"id": 510734797,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510734845": {
+					"id": 510734845,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 300000000,
+					"realAmount": 300000,
+					"transDate": "Date 03.02.2022 Time 12.55.05"
+				},
+				"510736008": {
+					"id": 510736008,
+					"from_id": 358155858,
+					"payload": 777,
+					"amount": 116000000,
+					"realAmount": 116000,
+					"transDate": "Date 03.02.2022 Time 13.20.25"
+				},
+				"510736443": {
+					"id": 510736443,
+					"from_id": 651375052,
+					"payload": 777,
+					"amount": 1000000,
+					"realAmount": 1000,
+					"transDate": "Date 03.02.2022 Time 16.26.41"
+				},
+				"510736451": {
+					"id": 510736451,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 1300000000,
+					"realAmount": 1300000,
+					"transDate": "Date 03.02.2022 Time 16.32.41"
+				},
+				"510736465": {
+					"id": 510736465,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 80000000,
+					"realAmount": 80000,
+					"transDate": "Date 03.02.2022 Time 16.37.46"
+				},
+				"510736608": {
+					"id": 510736608,
+					"from_id": 626662743,
+					"payload": 777,
+					"amount": 250000000,
+					"realAmount": 250000,
+					"transDate": "Date 03.02.2022 Time 17.25.31"
+				},
+				"510736735": {
+					"id": 510736735,
+					"from_id": 522744337,
+					"payload": 777,
+					"amount": 570000000,
+					"realAmount": 570000,
+					"transDate": "Date 03.02.2022 Time 17.53.42"
+				},
+				"510736900": {
+					"id": 510736900,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 5000000000,
+					"realAmount": 5000000,
+					"transDate": "Date 03.02.2022 Time 18.48.07"
+				},
+				"510736910": {
+					"id": 510736910,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 5000000000,
+					"realAmount": 5000000,
+					"transDate": "Date 03.02.2022 Time 18.50.32"
+				},
+				"510736919": {
+					"id": 510736919,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 2500000000,
+					"realAmount": 2500000,
+					"transDate": "Date 03.02.2022 Time 18.52.32"
+				},
+				"510736932": {
+					"id": 510736932,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 3000000000,
+					"realAmount": 3000000,
+					"transDate": "Date 03.02.2022 Time 18.55.12"
+				},
+				"510736939": {
+					"id": 510736939,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 4500000000,
+					"realAmount": 4500000,
+					"transDate": "Date 03.02.2022 Time 18.56.32"
+				},
+				"510736950": {
+					"id": 510736950,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 6750000000,
+					"realAmount": 6750000,
+					"transDate": "Date 03.02.2022 Time 18.59.02"
+				},
+				"510736959": {
+					"id": 510736959,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 10000000000,
+					"realAmount": 10000000,
+					"transDate": "Date 03.02.2022 Time 19.01.22"
+				},
+				"510737325": {
+					"id": 510737325,
+					"from_id": 420777531,
+					"payload": 777,
+					"amount": 100000,
+					"realAmount": 100,
+					"transDate": "Date 03.02.2022 Time 21.01.58"
+				},
+				"510738918": {
+					"id": 510738918,
+					"from_id": 565259370,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 04.02.2022 Time 14.59.58"
+				},
+				"510739352": {
+					"id": 510739352,
+					"from_id": 473826412,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 04.02.2022 Time 17.56.44"
+				},
+				"510739916": {
+					"id": 510739916,
+					"from_id": 563195543,
+					"payload": 777,
+					"amount": 2500000000,
+					"realAmount": 2500000,
+					"transDate": "Date 04.02.2022 Time 22.08.26"
+				},
+				"510739937": {
+					"id": 510739937,
+					"from_id": 563195543,
+					"payload": 777,
+					"amount": 500000000,
+					"realAmount": 500000,
+					"transDate": "Date 04.02.2022 Time 22.13.26"
+				},
+				"510739942": {
+					"id": 510739942,
+					"from_id": 474188769,
+					"payload": 777,
+					"amount": 2000000000,
+					"realAmount": 2000000,
+					"transDate": "Date 04.02.2022 Time 22.15.11"
+				},
+				"510739956": {
+					"id": 510739956,
+					"from_id": 637086003,
+					"payload": 777,
+					"amount": 1500000000,
+					"realAmount": 1500000,
+					"transDate": "Date 04.02.2022 Time 22.17.16"
+				},
+				"510739967": {
+					"id": 510739967,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 3000000000,
+					"realAmount": 3000000,
+					"transDate": "Date 04.02.2022 Time 22.24.41"
+				},
+				"510739973": {
+					"id": 510739973,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 6000000000,
+					"realAmount": 6000000,
+					"transDate": "Date 04.02.2022 Time 22.27.46"
+				},
+				"510740028": {
+					"id": 510740028,
+					"from_id": 447839681,
+					"payload": 777,
+					"amount": 8696000,
+					"realAmount": 8696,
+					"transDate": "Date 04.02.2022 Time 22.52.47"
+				},
+				"510740030": {
+					"id": 510740030,
+					"from_id": 447839681,
+					"payload": 777,
+					"amount": 78268300,
+					"realAmount": 78268,
+					"transDate": "Date 04.02.2022 Time 22.52.57"
+				},
+				"510740831": {
+					"id": 510740831,
+					"from_id": 683225983,
+					"payload": 777,
+					"amount": 500000000,
+					"realAmount": 500000,
+					"transDate": "Date 05.02.2022 Time 10.00.07"
+				},
+				"510741305": {
+					"id": 510741305,
+					"from_id": 688252831,
+					"payload": 777,
+					"amount": 1000000000,
+					"realAmount": 1000000,
+					"transDate": "Date 05.02.2022 Time 12.50.44"
+				},
+				"510741696": {
+					"id": 510741696,
+					"from_id": 286854599,
+					"payload": 777,
+					"amount": 598000000,
+					"realAmount": 598000,
+					"transDate": "Date 05.02.2022 Time 15.38.16"
+				},
+				"510741704": {
+					"id": 510741704,
+					"from_id": 286854599,
+					"payload": 777,
+					"amount": 598000000,
+					"realAmount": 598000,
+					"transDate": "Date 05.02.2022 Time 15.39.26"
+				},
+				"510742072": {
+					"id": 510742072,
+					"from_id": 437427389,
+					"payload": 777,
+					"amount": 69000000,
+					"realAmount": 69000,
+					"transDate": "Date 05.02.2022 Time 17.53.17"
+				},
+				"510742181": {
+					"id": 510742181,
+					"from_id": 626662743,
+					"payload": 777,
+					"amount": 100000000,
+					"realAmount": 100000,
+					"transDate": "Date 05.02.2022 Time 18.23.08"
+				},
+				"510742254": {
+					"id": 510742254,
+					"from_id": 626662743,
+					"payload": 777,
+					"amount": 250000000,
+					"realAmount": 250000,
+					"transDate": "Date 05.02.2022 Time 18.54.13"
+				},
+				"510742270": {
+					"id": 510742270,
+					"from_id": 661527859,
+					"payload": 777,
+					"amount": 491020000,
+					"realAmount": 491020,
+					"transDate": "Date 05.02.2022 Time 19.00.43"
+				}
+			},
+			"keksikHistory": {
+				"867060": {
+					"id": "867060",
+					"date": "1646246920927",
+					"amount": "50",
+					"payload": "100",
+					"fromId": "460127997",
+					"transDate": "Date 03.02.2022 Time 13.10.00"
+				}
+			}
+		}
+	}
+}

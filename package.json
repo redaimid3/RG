@@ -1,0 +1,21 @@
+{
+  "name": "multiplay-vkcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "canvas": "^2.8.0",
+    "deferred": "^0.7.11",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "mersenne-twister": "^1.1.0",
+    "nopt": "^5.0.0",
+    "vk-io": "^4.4.0"
+  }
+}
